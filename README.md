@@ -55,7 +55,7 @@ Notes:
   - Know that some commands are not executables, but Bash builtins, and that you can get help on them with `help` and `help -d`. You can find out whether a command is an executable, shell builtin or an alias by using `type command`.
   - `curl cheat.sh/command` will give a brief "cheat sheet" with common examples of how to use a shell command.
 
-> 1. `man` is system's manual page
+> 1. `man` is manual page of system
 > 2. `apropos` to search man page
 > 3. `help` display infomation about **bulitin** commands
 > 4. `type` dispaly infomation about command type
